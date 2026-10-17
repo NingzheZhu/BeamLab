@@ -29,10 +29,10 @@ const projects = [
 ];
 
 const publications = [
+  ["2026", "Weihan You, Shanjing Liu, Jiaxu Zhao, Ningzhe Zhu. Distress, Emotional Well-Being, and Sleep Quality in Daily Life: A Dual-Continuum Perspective.", "Applied Psychology: Health and Well-Being", "https://iaap-journals.onlinelibrary.wiley.com/journal/17580854"],
   ["2026", "Zhu, N., Schoedel, R., Sust, L., Buehner, M., & Terhorst, Y. Development and Validation of a Multi-Level Deep-Learning Framework for Prediction in Clustered Data.", "Society for Ambulatory Assessment 2026", "https://doi.org/10.31234/osf.io/783m9_v1"],
   ["2026", "Ao Ren, Kaixin Zhong, Yuening Liu, Qiaosheng Liu, Ningzhe Zhu, Feng Kong. Childhood Maltreatment and Emotional Intelligence Across Development: A Multilevel Meta-Analytic Review.", "Trauma, Violence, & Abuse", "https://doi.org/10.1177/15248380261443218"],
   ["2026", "Ningzhe Zhu, Ramona Schoedel, Larissa Sust, Markus Buhner, Yannik Terhorst. Digital Phenotyping of Lifestyle Profiles and Mental Well-Being in German Adults: Multilevel Latent Profile Analysis.", "Journal of Medical Internet Research", "https://doi.org/10.2196/101850"],
-  ["2026", "Weihan You, Shanjing Liu, Jiaxu Zhao, Ningzhe Zhu. Distress, Emotional Well-Being, and Sleep Quality in Daily Life: A Dual-Continuum Perspective.", "Applied Psychology: Health and Well-Being", "https://iaap-journals.onlinelibrary.wiley.com/journal/17580854"],
   ["2025", "Ningzhe Zhu, Anjali Sarawgi, Markus Buhner, Harald Baumeister, Patricia Garatva, Thomas Ehring, Yannik Terhorst. The relation between passively collected data and PTSD: a systematic review and meta-analysis.", "npj Digital Medicine", "https://www.nature.com/articles/s41746-025-01825-6"],
   ["2025", "Xin Yu, Jiaxu Zhao, Ningzhe Zhu. The more resilient students are, the sooner they recover from examination stress: A daily diary study.", "Applied Psychology: Health and Well-Being", "https://doi.org/10.1111/aphw.70025"],
   ["2025", "Ao Ren, Ningzhe Zhu, Yuening Liu, Yifan Liu, Xiaoni Yang, Chengcheng Li, Feng Kong. Longitudinal association between childhood emotional maltreatment and gratitude in Chinese adolescents: The mediating role of parent-child attachment.", "Journal of Youth and Adolescence", "https://link.springer.com/article/10.1007/s10964-024-02118-z"],
