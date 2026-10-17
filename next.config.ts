@@ -4,7 +4,6 @@ const nextConfig: NextConfig = {
   ...(process.env.GITHUB_PAGES === "true"
     ? {
         output: "export",
-        basePath: "/BeamLab",
         assetPrefix: "/BeamLab/",
       }
     : {}),
