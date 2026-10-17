@@ -46,7 +46,7 @@ const leaders = [
   { image: "AoRen.jpg", role: { en: "Associate Director", zh: "负责人" }, name: "Ao Ren", zhName: "任奥", bio: { en: "PhD candidate at South China Normal University studying the physical, emotional, and intellectual development of individuals and their interconnections.", zh: "华南师范大学博士候选人，专注于个体身体、情感与智力发展及其内在关联。" } },
 ];
 
-const assetRoot = process.env.GITHUB_PAGES === "true" ? "/BeamLab" : "";
+const assetRoot = import.meta.env.BASE_URL.replace(/\/$/, "");
 
 export default function Home() {
   const [lang, setLang] = useState<Lang>("en"); const [page, setPage] = useState<Page>("home"); const [open, setOpen] = useState<number | null>(null); const t = copy[lang];

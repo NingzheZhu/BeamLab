@@ -42,6 +42,7 @@ export default defineConfig(async () => {
 
   if (process.env.GITHUB_PAGES === "true") {
     return {
+      base: "/BeamLab/",
       server: isCodexSeatbeltSandbox
         ? { watch: { useFsEvents: false, usePolling: true } }
         : undefined,
