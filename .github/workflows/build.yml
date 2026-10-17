@@ -31,6 +31,11 @@ jobs:
         run: npm ci
       - name: Build static website
         run: npm run build:github
+      - name: Prepare project Pages output
+        run: |
+          if [ -d dist/client/BeamLab ]; then
+            cp -R dist/client/BeamLab/. dist/client/
+          fi
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
       - name: Upload Pages artifact
