@@ -32,7 +32,7 @@ const projects = [
 ];
 
 const publications = [
-  ["2026", "Within-person relations between mobile phone addiction and mental well-being among college students: The moderating role of negative self-schema.", "Jiaxu Zhao, Weihan You, Shanjing Liu, Ningzhe Zhu", "Applied Psychology: Health and Well-Being", "https://iaap-journals.onlinelibrary.wiley.com/journal/17580854", "Journal ↗"],
+  ["2026", "Within-person relations between mobile phone addiction and mental well-being among college students: The moderating role of negative self-schema.", "Jiaxu Zhao, Weihan You, Shanjing Liu, Ningzhe Zhu", "Applied Psychology: Health and Well-Being", "http://doi.org/10.1111/aphw.70252", "DOI ↗"],
   ["2026", "Distress, Emotional Well-Being, and Sleep Quality in Daily Life: A Dual-Continuum Perspective.", "Weihan You, Shanjing Liu, Jiaxu Zhao, Ningzhe Zhu", "Applied Psychology: Health and Well-Being", "https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.70249"],
   ["2026", "Development and Validation of a Multi-Level Deep-Learning Framework for Prediction in Clustered Data.", "Zhu, N., Schoedel, R., Sust, L., Buehner, M., & Terhorst, Y.", "Society for Ambulatory Assessment 2026", "https://doi.org/10.31234/osf.io/783m9_v1"],
   ["2026", "Childhood Maltreatment and Emotional Intelligence Across Development: A Multilevel Meta-Analytic Review.", "Ao Ren, Kaixin Zhong, Yuening Liu, Qiaosheng Liu, Ningzhe Zhu, Feng Kong", "Trauma, Violence, & Abuse", "https://doi.org/10.1177/15248380261443218"],
